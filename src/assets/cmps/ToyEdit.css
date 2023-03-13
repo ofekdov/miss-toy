@@ -1,0 +1,16 @@
+.toy-edit {
+    background-color: aqua;
+    position: fixed;
+    top: 20%;
+    right: 50%;
+    transform: translate(50%);
+    height:300px ;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.toy-edit form {
+    display: grid;
+    gap: 10px;    
+}

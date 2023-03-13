@@ -1,0 +1,11 @@
+.toy-preview a {
+    text-decoration: none;
+    color: rgb(84, 72, 223);
+}
+
+.toy-preview {
+    padding: 10px;
+    background-color:rgb(224, 255, 245);
+    max-width: 250px;
+    border-radius: 10px;
+}

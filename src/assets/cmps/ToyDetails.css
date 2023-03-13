@@ -1,0 +1,27 @@
+.toy-details {
+    background-color: rgb(134, 230, 230);
+    position: fixed;
+    top: 20%;
+    right: 50%;
+    transform: translate(50%);
+    height:300px ;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    /* position: relative; */
+}
+
+.toy-details button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    background-color: rgb(223, 239, 233);
+    transition: 0.2s;
+}
+
+.toy-details button:hover {
+    background-color: rgb(161, 155, 155);
+}
